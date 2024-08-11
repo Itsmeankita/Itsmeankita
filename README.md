@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Web development from India</h3>
 <img align="right" alt="coding"=width="400"src="https://www.bing.com/th/id/OGC.201a0fce023b2b6590a6b18a4fdd4f16?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f55389276%2f140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&ehk=8bWWNYb0o3fqqam6MMSArbyYp1SB54A0nfT%2b%2byALpi4%3d">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeankita&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeankita" /> </p>
 
 - 🌱 I’m currently learning **BTech(CSE)**
