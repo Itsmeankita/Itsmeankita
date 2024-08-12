@@ -2,31 +2,28 @@
 
 **Itsmeankita/Itsmeankita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <h1 align="center">Hi 👋, I'm Ankita kumari</h1>
 <h3 align="center">A passionate Web development from India</h3>
-<img align="right" alt="coding"=width="400"src="https://www.bing.com/th/id/OGC.201a0fce023b2b6590a6b18a4fdd4f16?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f55389276%2f140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&ehk=8bWWNYb0o3fqqam6MMSArbyYp1SB54A0nfT%2b%2byALpi4%3d">
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.201a0fce023b2b6590a6b18a4fdd4f16?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f55389276%2f140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&ehk=8bWWNYb0o3fqqam6MMSArbyYp1SB54A0nfT%2b%2byALpi4%3d">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeankita&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeankita" /> </p>
 
-- 🌱 I’m currently learning **BTech(CSE)**
+- 🌱 **Currently Pursuing:** B.Tech in Computer Science
+- 💬 **Ask me about:** Web Development, JavaScript, and Coding
+- 👯 **Looking to Collaborate on:** Open-source Web Development Projects
+- 🤔 **Looking for Help with:** Advanced JavaScript and Backend Development
+- ⚡ **Fun Fact:** I have a knack for making people laugh! 😄
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ankita-kumari-9540b5322](www.linkedin.com/in/ankita-kumari-9540b5322)
+### 🚀 Explore My Work:
+- 👨‍💻 **Projects:** Check out all my work on [LinkedIn](https://www.linkedin.com/in/ankita-kumari-9540b5322)
 
-- 📫 How to reach me **ankita879731@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+### 📫 Get in Touch:
+- **Email:** ankita879731@gmail.com
+
+  <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
