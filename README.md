@@ -26,10 +26,31 @@
   <hr>
   ## 💼 Internship
 
-- **Machine Learning Intern** at IIT (BHU), Varanasi
-- Working on Machine Learning & Deep Learning projects
-- Building a Rice Grain Classification project using Python
-- Learning Git, GitHub and collaborative development
+**Machine Learning Intern** | IIT (BHU), Varanasi
+
+- Currently pursuing an internship focused on **Machine Learning, Deep Learning, Computer Vision, and App Development**.
+- Working on real-world AI/ML projects using Python and modern machine learning frameworks.
+- Developing the **Rice Grain Classification** project using image processing and machine learning techniques.
+- Performing data preprocessing, feature engineering, model training, evaluation, and performance optimization.
+- Exploring Deep Learning models for image classification and computer vision applications.
+- Gaining hands-on experience with Git, GitHub, collaborative development, and software development workflows.
+- Actively working on a **research paper** based on the Rice Grain Classification project.
+
+## 🚀 Current Project
+
+**Rice Grain Classification using Machine Learning & Deep Learning**
+
+- Image Classification
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Computer Vision
+- Deep Learning Implementation
+- Research & Documentation
+
+## 📄 Research
+
+**Research Paper:** *Rice Grain Classification using Machine Learning & Deep Learning* *(In Progress)*
 
 ## 🛠️ Tech Stack
 
@@ -38,13 +59,18 @@
 - Pandas
 - Matplotlib
 - Scikit-learn
-- TensorFlow (Learning)
+- TensorFlow
+- OpenCV
+- Git & GitHub
 
-## 🚀 Current Goals
+## 🎯 Currently Learning
 
-- Complete ML Internship at IIT (BHU)
-- Build real-world AI/ML projects
-- Learn Computer Vision & Deep Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- App Development
+- Research Methodology
+- Artificial Intelligence
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
