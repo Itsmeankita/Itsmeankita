@@ -24,6 +24,27 @@
 - *Email:* ankita879731@gmail.com
 
   <hr>
+  ## 💼 Internship
+
+- **Machine Learning Intern** at IIT (BHU), Varanasi
+- Working on Machine Learning & Deep Learning projects
+- Building a Rice Grain Classification project using Python
+- Learning Git, GitHub and collaborative development
+
+## 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow (Learning)
+
+## 🚀 Current Goals
+
+- Complete ML Internship at IIT (BHU)
+- Build real-world AI/ML projects
+- Learn Computer Vision & Deep Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
