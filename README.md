@@ -24,35 +24,36 @@
 - *Email:* ankita879731@gmail.com
 
   <hr>
-  ## 💼 Internship
+ ## 💼 Internship
 
-**Machine Learning Intern** | IIT (BHU), Varanasi
+**Machine Learning Intern** | Computer Science Department, IIT (BHU), Varanasi  
+**Duration:** June 2026 – July 2026
 
-- Currently pursuing an internship focused on **Machine Learning, Deep Learning, Computer Vision, and App Development**.
-- Working on real-world AI/ML projects using Python and modern machine learning frameworks.
-- Developing the **Rice Grain Classification** project using image processing and machine learning techniques.
-- Performing data preprocessing, feature engineering, model training, evaluation, and performance optimization.
-- Exploring Deep Learning models for image classification and computer vision applications.
-- Gaining hands-on experience with Git, GitHub, collaborative development, and software development workflows.
-- Actively working on a **research paper** based on the Rice Grain Classification project.
-
-## 🚀 Current Project
-
-**Rice Grain Classification using Machine Learning & Deep Learning**
-
-- Image Classification
-- Data Preprocessing
-- Feature Engineering
-- Model Training & Evaluation
+### 📌 Internship Focus
+- Machine Learning
+- Deep Learning
 - Computer Vision
-- Deep Learning Implementation
-- Research & Documentation
+- App Development
+- AI Research
 
-## 📄 Research
+### 🚀 Current Project
 
-**Research Paper:** *Rice Grain Classification using Machine Learning & Deep Learning* *(In Progress)*
+**Rice Grain Classification using the MANTA Dataset**
 
-## 🛠️ Tech Stack
+- Developing an AI-based rice grain classification system.
+- Using the **MANTA (Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset)** as the research dataset.
+- Performing data preprocessing, image processing, feature extraction, model training, evaluation, and performance analysis.
+- Exploring Deep Learning and Computer Vision techniques for accurate grain classification.
+- Building an end-to-end AI/ML application as part of the internship.
+
+### 📄 Research Work
+
+- Studying the research paper **"MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects"** as the base reference.
+- Identifying research gaps and problem statements.
+- Developing an improved solution using Machine Learning and Deep Learning.
+- Preparing a research paper based on the developed project and experimental results.
+
+### 🛠️ Tech Stack
 
 - Python
 - NumPy
@@ -63,14 +64,16 @@
 - OpenCV
 - Git & GitHub
 
-## 🎯 Currently Learning
+### 🎯 Learning Objectives
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - App Development
-- Research Methodology
 - Artificial Intelligence
+- Research Methodology
+- Model Optimization
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
