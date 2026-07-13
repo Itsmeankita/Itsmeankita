@@ -1,93 +1,136 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankita Kumari</h1>
 
-*Itsmeankita/Itsmeankita* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+<h3 align="center">
+Final Year B.Tech Computer Science & Engineering Student | AI/ML Research Intern | Full Stack Developer
+</h3>
 
-<h1 align="center">Hi 👋, I'm Ankita kumari</h1>
-<h3 align="center">A passionate Web development from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.201a0fce023b2b6590a6b18a4fdd4f16?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f55389276%2f140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&ehk=8bWWNYb0o3fqqam6MMSArbyYp1SB54A0nfT%2b%2byALpi4%3d">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeankita&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeankita" /> </p>
-
-- 🌱 *Currently Pursuing:* B.Tech in Computer Science
-- 💬 *Ask me about:* Web Development, JavaScript, and Coding
-- 👯 *Looking to Collaborate on:* Open-source Web Development Projects
-- 🤔 *Looking for Help with:* Advanced JavaScript and Backend Development
-- ⚡ *Fun Fact:* I have a knack for making people laugh! 😄
-
-### 🚀 Explore My Work:
-- 👨‍💻 *Projects:* Check out all my work on [LinkedIn](https://www.linkedin.com/in/ankita-kumari-9540b5322)
-
-
-### 📫 Get in Touch:
-- *Email:* ankita879731@gmail.com
-
-  <hr>
- ## 💼 Internship
-
-**Machine Learning Intern** | Computer Science Department, IIT (BHU), Varanasi  
-**Duration:** June 2026 – July 2026
-
-### 📌 Internship Focus
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- App Development
-- AI Research
-
-### 🚀 Current Project
-
-**Rice Grain Classification using the MANTA Dataset**
-
-- Developing an AI-based rice grain classification system.
-- Using the **MANTA (Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset)** as the research dataset.
-- Performing data preprocessing, image processing, feature extraction, model training, evaluation, and performance analysis.
-- Exploring Deep Learning and Computer Vision techniques for accurate grain classification.
-- Building an end-to-end AI/ML application as part of the internship.
-
-### 📄 Research Work
-
-- Studying the research paper **"MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects"** as the base reference.
-- Identifying research gaps and problem statements.
-- Developing an improved solution using Machine Learning and Deep Learning.
-- Preparing a research paper based on the developed project and experimental results.
-
-### 🛠️ Tech Stack
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- TensorFlow
-- OpenCV
-- Git & GitHub
-
-### 🎯 Learning Objectives
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- App Development
-- Artificial Intelligence
-- Research Methodology
-- Model Optimization
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankita kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita kumari" height="30" width="40" /></a>
-<a href="https://instagram.com/itsme_ankita31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsme_ankita31" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itsme_ankita31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsme_ankita31" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsme_ankita31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsme_ankita31" height="30" width="40" /></a>
+<p align="center">
+Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Full Stack Development and building real-world software solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## 👩‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeankita&show_icons=true&locale=en&layout=compact" alt="itsmeankita" /></p>
+🎓 Final Year B.Tech Computer Science & Engineering student at **Bhagat Phool Singh Mahila Vishwavidyalaya (BPSMV), Haryana**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeankita&show_icons=true&locale=en" alt="itsmeankita" /></p>
+🔬 Completed a **Research Internship** at **Indian Institute of Technology (IIT BHU), Varanasi**, where I worked in the **Visual Computing & Analytics (VCA) Lab** under the guidance of **Dr. Indra Deep Mastan**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeankita&" alt="itsmeankita" /></p>
+🌾 Developed **Annapurna AI**, an AI-powered Rice Grain Classification System using Deep Learning, Computer Vision, Flask REST APIs and React Native.
+
+💡 I enjoy building scalable applications and applying AI to solve real-world problems.
+
+🎯 Currently looking for **Software Development Engineer (SDE)**, **AI/ML Engineer**, and **Full Stack Developer** opportunities.
+
+## 🚀 Technical Skills
+
+### Languages
+- Python
+- C
+- C++
+- JavaScript
+- SQL
+
+### Web Development
+- HTML5
+- CSS3
+- React.js
+- Flask
+- REST APIs
+
+### Mobile Development
+- React Native
+
+### AI / ML
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- CNN
+- PyTorch
+- NumPy
+- OpenCV
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- IntelliJ IDEA
+
+## 💼 Experience
+
+### Research Intern | Indian Institute of Technology (BHU), Varanasi
+**May 2026 – July 2026**
+
+Worked at the **Visual Computing & Analytics (VCA) Lab**.
+
+#### Responsibilities
+
+- Built Deep Learning models using PyTorch.
+- Explored CNN Architectures and Computer Vision.
+- Studied the MANTA (CVPR 2025) research paper.
+- Developed Flask REST APIs.
+- Built a cross-platform React Native application.
+- Performed model training, testing and evaluation.
+- Integrated AI models into a real-world application.
+
+## 🚀 Featured Projects
+
+### 🌾 Annapurna AI
+AI-powered Rice Grain Classification System
+
+**Tech Stack:** Python • PyTorch • Flask • React Native • Computer Vision
+
+### 🛒 E-Commerce Website
+
+Responsive shopping website with modern UI.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+### 🎓 Student Management System
+
+CRUD-based student management application.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+### 🍛 Indian Recipes Finder
+
+Responsive recipe website with search and categories.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+## 📜 Certifications
+
+- Research Internship Certificate – IIT (BHU) Varanasi
+- Artificial Intelligence & Machine Learning
+- Front-End Development
+- SQL Certification
+- JavaScript Certification
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Deep Learning
+- Computer Vision
+- System Design
+- MLOps
+- 
+## 🤝 Open To
+
+- Software Development Engineer (SDE)
+- AI/ML Engineer
+- Full Stack Developer
+- Research Opportunities
+- Open Source Contributions
+
+## 📫 Connect With Me
+
+📧 Email: **ankita879731@gmail.com**
+
+💼 LinkedIn: **https://www.linkedin.com/in/ankita-kumari-9540b5322**
+
+💻 GitHub: **https://github.com/Itsmeankita**
+
+
+⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
